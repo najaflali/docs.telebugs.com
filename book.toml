@@ -3,3 +3,6 @@ title = "The Telebugs Manual"
 authors = ["Kyrylo Silin"]
 language = "en"
 description = "A guide to setting up and using Telebugs, a self-hosted Sentry alternative for error tracking."
+
+[build]
+build-dir = "public"
