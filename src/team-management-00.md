@@ -3,7 +3,8 @@
 Team management lets you invite collaborators, assign roles, control project
 access, and manage notifications.
 
-Start by clicking your profile icon in the top-right and selecting **Team Management**.
+Start by clicking your profile icon in the top-right and selecting **Team
+Management**.
 
 ## Team Roles
 
@@ -69,4 +70,7 @@ This is for email only. Other integrations (like Slack) are separate.
 
 ## Next Steps
 
-Customize project settings or notifications next.
+Customize [project settings][1] or [notifications][2] next.
+
+[1]: /projects-04-project-settings.md
+[2]: /notifications-00.md

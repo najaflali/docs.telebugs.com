@@ -84,7 +84,8 @@ Available actions include:
   caution. It unlinks all artifacts and can break unminification for errors from
   that version.
 
-**Pro tip:** Before deleting anything, confirm that no active or recent errors
-depend on that version’s source maps. Test error reporting afterward.
+**Pro tip:** Create releases as part of your deploy pipeline to ensure source
+maps align perfectly with each version (see [Source Maps][2]).
 
 [1]: /projects-02-individual-project-view.md
+[2]: /release-01-source-maps.md

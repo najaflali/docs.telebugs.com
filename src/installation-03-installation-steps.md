@@ -3,13 +3,13 @@
 The whole process takes less than 5 minutes. Here is how to get started.
 
 1. **Choose a server.** Pick a machine to host Telebugs (cloud or local). I
-   recommend DigitalOcean (see the DigitalOcean setup guide) or Hetzner (see the
-   Hetzner setup guide).
+   recommend DigitalOcean (see the [DigitalOcean setup guide][3]) or Hetzner
+   (see the [Hetzner setup guide][4]).
 
 2. **Point your domain.** Update your DNS records so your domain points directly
    to your server IP. Do not use proxying. Telebugs handles TLS itself.
 
-   ![Cloudflare DNS configuration example](assets/images/installation-03-installation-steps/01.webp)
+   ![Cloudflare DNS configuration example][1]
 
 3. **Connect to your server.** Use SSH or your provider console.
 
@@ -32,13 +32,20 @@ will then download the latest version of the Telebugs app as a Docker container.
 During setup, you’ll be prompted to enter your domain name so we can generate a
 TLS certificate for you.
 
-![Successful Telebugs installation](assets/images/installation-03-installation-steps/02.webp)
+![Successful Telebugs installation][2]
 
-That is it. Visit `https://YOUR-DOMAIN` in your browser to create the first user. After that, you can invite your team.
+That is it. Visit `https://YOUR-DOMAIN` in your browser to create the first
+user. After that, you can invite your team.
 
 Telebugs updates itself automatically every night at 1 AM (server local time).
 You can disable updates or run other admin tasks (backups, password resets,
-etc.) with the `telebugs` command. Connect to your server and run `telebugs` to
-see all options.
+etc.) with the [telebugs command][5]. Connect to your server and run `telebugs`
+to see all options.
 
 > 💡 Want multiple Telebugs installations? You need a separate license for each domain.
+
+[1]: assets/images/installation-03-installation-steps/01.webp
+[2]: assets/images/installation-03-installation-steps/02.webp
+[3]: /appendix-04-installing-on-digital-ocean.md
+[4]: /appendix-05-installing-on-hetzner.md
+[5]: /appendix-02-telebugs-command-reference.md

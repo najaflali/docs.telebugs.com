@@ -11,7 +11,9 @@ Conditions for alerts (apply to all channels):
 - Error reoccurs after resolution.
 - Frequency exceeds threshold (e.g., >10 in 5 minutes).
 
-Projects can disable channels individually. Users can opt out per project in
-their profile.
+Projects can disable channels individually (see [Project Settings][1]). Users
+can opt out per project in their profile.
 
 See sub-sections for setup.
+
+[1]: /projects-04-project-settings.md

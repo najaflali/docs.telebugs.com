@@ -6,6 +6,9 @@ diagnose problems quickly.
 
 Similar errors are automatically grouped into issues to reduce noise.
 
-Teams can add notes (with attachments) to discuss and track resolution.
+Teams can add notes (with attachments) to discuss and track resolution (see
+[Notes and Collaboration][1]).
 
 See the following sections for details.
+
+[1]: /error-reports-03-notes-and-collaboration.md

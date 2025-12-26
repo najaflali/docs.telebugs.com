@@ -97,8 +97,9 @@ free disk (database size + 10% buffer).
 **Important:** All automatic and manual purges are irreversible. Export critical
 data if needed before cleanup.
 
-For quick cleanup, use the **Danger Zone** in project settings to purge all
+For quick cleanup, use the **Danger Zone** in [project settings][3] to purge all
 error data or note attachments manually.
 
 [1]: /error-reports-00.md
 [2]: /source-maps-00.md
+[3]: /projects-04-project-settings.md

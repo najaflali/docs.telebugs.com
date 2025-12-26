@@ -68,10 +68,12 @@ If the error is currently muted:
 - Muting only affects **notifications** — new reports are still recorded,
   grouped, and visible in dashboards.
 - Resolved errors can still be muted (useful for preventing notifications if
-  they regress).
+  they regress; see [Owning Errors][1] for related triage).
 - If a muted error receives new reports after being resolved, it will
   automatically become unresolved (as with any error), but notifications will
   remain suppressed until unmuted.
 
 Use muting responsibly to reduce noise while keeping full visibility into your
 error stream.
+
+[1]: /error-reports-04-owning-errors.md

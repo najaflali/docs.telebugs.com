@@ -29,7 +29,7 @@ View team list and toggle checkboxes for access.
 
 Admins: full control; members: view/resolve only.
 
-Changes save automatically. See Team Management for roles/invites.
+Changes save automatically. See [Team Management][1] for roles/invites.
 
 Use for segmented teams, e.g., backend devs on backend projects.
 
@@ -53,4 +53,7 @@ Irreversible actions; back up first.
 - **Full purge**: Wipe all error data (project structure stays).
 - **Delete project**: Remove entirely; double-confirm.
 
-Use for cleanup, but export data if needed for audits.
+Use for cleanup, but export data if needed for audits (see [Data Retention][2]).
+
+[1]: /team-management-00.md
+[2]: /data-retention-00.md
